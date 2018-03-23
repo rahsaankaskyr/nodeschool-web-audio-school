@@ -1,6 +1,9 @@
 
+# web-audio-school
 
+intro to the Web Audio API
 
+We will primarily focus on using the Web Audio API for music, but the concepts here could be applied to game sound and other creative uses.
 
 
 ## Try it out here:
